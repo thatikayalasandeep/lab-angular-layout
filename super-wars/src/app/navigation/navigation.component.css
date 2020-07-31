@@ -1,0 +1,14 @@
+a {
+  text-decoration: none;
+  font-weight: bolder;
+  margin-left: 10px;
+  margin-top: 0;
+  font-size: 30px;
+
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+
+}
